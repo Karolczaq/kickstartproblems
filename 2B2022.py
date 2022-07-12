@@ -1,4 +1,4 @@
-# This solutions exceeds the time limit for test set 2
+# This solution exceeds the time limit for test set 2
 t = int(input())
 for i in range(1,t+1):
     wynik = 1 # a/a = 1 which is a palindrome
